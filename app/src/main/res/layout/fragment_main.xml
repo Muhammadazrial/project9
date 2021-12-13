@@ -112,7 +112,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:fontFamily="@font/poppins_regular"
-        android:text="Senin, 18 Februari 2019"
+        android:text="Senin, 13 Desember 2021"
         android:textColor="#5d5d5d"
         android:textSize="13sp"
         app:layout_constraintStart_toStartOf="parent"
